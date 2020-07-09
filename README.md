@@ -1,2 +1,2 @@
 # PokeStoper
-Desafio Hiring Coders, 
+Desafio Hiring Coders, feito com JS Vanilla e BootStrap.
